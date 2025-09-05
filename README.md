@@ -3,5 +3,5 @@
 #### Technical Skills: Python, SQL, HTML
 
 ## Education			       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Mechanical Engineering	| Tarbiat Modares University (_2017_)	 			        		
+- B.S., Mechanical Engineering | Khaje Nasir University (_2012_)
